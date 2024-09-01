@@ -14,8 +14,8 @@
 )](https://www.linkedin.com/in/karol-nogueira-rodrigues-lima-742b66205/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWtDpJsMxDBVxkTnWghSDZtdvCHSjkHqLvzSZgjmVmqzrRMgzSWJRWJCLqjbMMhftXzTdqmdV)
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Twilighttsky&show_icons=true&theme=dracula">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilighttsky&layout=compact">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Twilighttsky&show_icons=true&theme=dracula">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilighttsky&layout=compact">
 </div>
 
 
