@@ -1,6 +1,6 @@
 ## Olá, eu sou Karol Nogueira👋
 
-### 🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec ZL(SEM 1/6)
+### 🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec ZL(SEM 2/6)
 ### 🩺 Buscando integrar saúde com tecnologia
 
 
