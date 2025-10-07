@@ -1,12 +1,12 @@
 ## Olá, eu sou Karol Nogueira👋
 
-### 🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec ZL(SEM 2/6)
-### 🩺 Buscando integrar saúde com tecnologia
+### 🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec ZL(SEM 3/6)
+###  🍵Focada em aprofundar meus estudos em Java e Spring boot
 
 
 ## 💭Sobre mim
 
-### Desde os 16 anos venho fazendo cursos na área de TI e cada vez me interesso mais pela área. Hoje curso DSM na faculdade e meu objetivo é desenvolver sites e aplicações voltados para saúde e pessoas com necessidades especiais. No meu tempo livre gosto de ler, viajar, sair para conhecer lugares novos e jogar games.🐈
+### Comecei a estudar programação em 2023 para passar o tempo e me interessei pelo assunto, na época aprendi o front-end básico (os 3 cavaleiros do apocalipse). Resolvi cursar Desenvolvimento de Software Multiplataforma na FATEC e a faculdade abriu meu leque de conhecimentos na área, hoje em dia também mexo com banco de dados, back-end, documentações e UX/UI. Meu objetivo é desenvolver e projetar sites/aplicações que sejam acessiveis para pessoas com necessidades especiais.
 
 
 ## Social Media
