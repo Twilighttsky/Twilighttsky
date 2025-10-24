@@ -8,6 +8,10 @@
 
 ### Comecei a estudar programação em 2023 para passar o tempo e me interessei pelo assunto, na época aprendi o front-end básico (os 3 cavaleiros do apocalipse). Resolvi cursar Desenvolvimento de Software Multiplataforma na FATEC e a faculdade abriu meu leque de conhecimentos na área, hoje em dia também mexo com banco de dados, back-end, documentações e UX/UI. Meu objetivo é desenvolver e projetar sites/aplicações que sejam acessiveis para pessoas com necessidades especiais.
 
+## Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 ## Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
