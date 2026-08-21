@@ -1,6 +1,6 @@
 ## Olá, eu sou Karol Nogueira👋
 
-### 🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec ZL(SEM 3/6)
+### 🎓 Cursando Desenvolvimento de Software Multiplataforma - Fatec ZL(SEM 4/6)
 ###  🍵Focada em aprofundar meus estudos em Java e Spring boot
 
 
